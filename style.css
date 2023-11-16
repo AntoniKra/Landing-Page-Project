@@ -22,3 +22,47 @@ nav ul {
   list-style-type: none;
   margin-right: 200px;
 }
+
+#header {
+  display: flex;
+  background-color: #1f2937;
+}
+
+#letters {
+  margin-top: 10px;
+  display: flex;
+  margin-left: 200px;
+  flex-direction: column;
+  width: 22%;
+}
+
+h1 {
+  display: flex;
+  font-size: 48px;
+  font-style: ;
+  font-weight: 900;
+  color: #f9faf8;
+  margin-bottom: 0;
+}
+
+#description {
+  font-size: 18px;
+  color: #e4e7eb;
+  margin: 0px;
+}
+
+#sign_up {
+  display: flex;
+  background-color: #3882f6;
+  border-radius: 10%;
+  font-size: 18px;
+  color: #e4e7eb;
+  margin-top: 10px;
+  width: 25%;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+#image {
+}
