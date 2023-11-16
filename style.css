@@ -1,0 +1,25 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2937;
+}
+
+nav p {
+  display: flex;
+  justify-content: ;
+  font-size: 24px;
+  color: #f9faf8;
+  margin-left: 200px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+  color: #e4e7eb;
+  width: 30%;
+  list-style-type: none;
+  margin-right: 200px;
+}
