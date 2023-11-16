@@ -1,3 +1,8 @@
+body {
+  font-family: 'Roboto', sans-serif;
+
+}
+
 nav {
   display: flex;
   justify-content: space-between;
@@ -26,11 +31,11 @@ nav ul {
 #header {
   display: flex;
   background-color: #1f2937;
-  height: 400px;
+  height: 450px;
 }
 
 #letters {
-  margin-top: 10px;
+  margin-top: 40px;
   display: flex;
   margin-left: 300px;
   flex-direction: column;
@@ -55,7 +60,7 @@ h1 {
 #sign_up {
   display: flex;
   background-color: #3882f6;
-  border-radius: 10%;
+  border-radius: 10px;
   font-size: 18px;
   color: #e4e7eb;
   margin-top: 10px;
@@ -75,6 +80,14 @@ h1 {
   margin-right: 300px;
   background-color: gray;
   height: 230px;
-  margin-top: 50px;
+  margin-top: 80px;
   margin-left: 150px;
 }
+
+
+
+
+
+
+
+gap
