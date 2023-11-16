@@ -8,7 +8,7 @@ nav p {
   display: flex;
   font-size: 24px;
   color: #f9faf8;
-  margin-left: 200px;
+  margin-left: 300px;
   font-weight: bold;
   font-style: normal;
 }
@@ -20,18 +20,19 @@ nav ul {
   color: #e4e7eb;
   width: 30%;
   list-style-type: none;
-  margin-right: 200px;
+  margin-right: 300px;
 }
 
 #header {
   display: flex;
   background-color: #1f2937;
+  height: 400px;
 }
 
 #letters {
   margin-top: 10px;
   display: flex;
-  margin-left: 200px;
+  margin-left: 300px;
   flex-direction: column;
   width: 22%;
 }
@@ -62,7 +63,18 @@ h1 {
   height: 30px;
   justify-content: center;
   align-items: center;
+  font-weight: 900;
 }
 
 #image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #f9faf8;
+  width: 600px;
+  margin-right: 300px;
+  background-color: gray;
+  height: 230px;
+  margin-top: 50px;
+  margin-left: 150px;
 }
