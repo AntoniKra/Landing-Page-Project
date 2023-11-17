@@ -84,6 +84,26 @@ h1 {
   margin-left: 150px;
 }
 
+#boxes {
+  display: flex;
+  justify-content: center;
+  gap: ;
+}
+
+.box {
+  display: flex;
+  border-radius: 20px;
+  border-color: #3882f6;
+  border-width: 5px;
+  border-style:inset;
+  width: 200px;
+  height: 200px; 
+}
+
+.all {
+  width: 200px;
+}
+
 
 
 
