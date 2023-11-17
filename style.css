@@ -1,6 +1,5 @@
 body {
-  font-family: 'Roboto', sans-serif;
-
+  font-family: "Roboto", sans-serif;
 }
 
 nav {
@@ -45,7 +44,6 @@ nav ul {
 h1 {
   display: flex;
   font-size: 48px;
-  font-style: ;
   font-weight: 900;
   color: #f9faf8;
   margin-bottom: 0;
@@ -84,30 +82,64 @@ h1 {
   margin-left: 150px;
 }
 
+#information {
+  height: 40%;
+}
+
+#text {
+  display: flex;
+  justify-content: center;
+  font-size: 36px;
+  color: #1f2937;
+  font-weight: 900;
+  margin: 20px;
+}
+
 #boxes {
   display: flex;
   justify-content: center;
-  gap: ;
+  gap: 30px;
 }
 
 .box {
   display: flex;
+  justify-content: center;
   border-radius: 20px;
   border-color: #3882f6;
   border-width: 5px;
-  border-style:inset;
+  border-style: inset;
   width: 200px;
-  height: 200px; 
+  height: 200px;
 }
 
 .all {
+  margin: 20px;
   width: 200px;
+  font-size: 18px;
+  height: 400px;
 }
 
+#quote {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #e5e7eb;
+  height: 500px;
 
+  color: #1f2937;
+}
 
+#contents {
+  width: 810px;
+  font-size: 36px;
+  font-style: italic;
+  margin-top: 100px;
+  height: 200px;
+}
 
-
-
-
-gap
+#author {
+  font-size: 24px;
+  font-weight: 900;
+  margin-left: 500px;
+  margin-top: 0px;
+}
