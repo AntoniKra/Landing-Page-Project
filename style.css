@@ -204,3 +204,9 @@ footer {
   color: #e5e7eb;
   font-size: 22px;
 }
+
+#sign_up_v2:hover,
+#sign_up:hover {
+  cursor: pointer;
+  background-color: darkblue;
+}
